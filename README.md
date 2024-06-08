@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Full Stack Developer with 2.5 years of experience in React.js,<br>SpringBoot, Core Java, JavaScript ES6, HTML, CSS,  REST APIs,<br>MongoDB, MySQL, Tailwind CSS, Material UI, Bootstrap etc.<br>Received appreciation for handling complex user stories.
+A Full Stack Developer with 2.5 years of experience in React.js, SpringBoot, Core Java, JavaScript ES6, HTML, CSS, REST APIs,<br>MongoDB, MySQL, Tailwind CSS, Material UI, Bootstrap etc.<br>Received appreciation for handling complex user stories.
 
 
 ## 🌐 Socials:
